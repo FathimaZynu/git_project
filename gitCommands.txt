@@ -22,3 +22,8 @@ branch creation
 git status
 git branch branchname
 git checkout branchname
+
+pull command
+------------
+
+git pull "url"
