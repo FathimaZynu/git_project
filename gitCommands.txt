@@ -1,0 +1,8 @@
+git config --global user.name "FathimaZynu"
+git config --global user.email "fathimazynu123@gmail.com"
+
+git init
+git add .
+git remote add origin "https://github.com/FathimaZynu/git_project.git"
+git commit -m "commit label"
+git push -u origin master
